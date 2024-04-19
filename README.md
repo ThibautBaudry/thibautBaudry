@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Coup2Pousse](https://github.com/ThibautBaudry/Coup2Pousse)
 
-- 🌱 Certified learning **Solidity** at **[Alyra school]**(https://www.alyra.fr)
+- 🌱 Certified learning **Solidity** at **[Alyra school](https://www.alyra.fr)**
 
 - 🌱 Engineer Degree from **[ESILV]**(https://www.usinenouvelle.com/comparatif-des-ecoles-d-ingenieurs-2024)
 
