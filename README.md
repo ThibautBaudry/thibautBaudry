@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thibaut BAUDRY</h1>
+<h1 align="left">Hi 👋, I'm Thibaut BAUDRY</h1>
 <h3 align="left">A passionate Engineer from Paris. Blockchain lover.</h3>
 
 - 🔭 I’m currently working on [Coup2Pousse](https://github.com/ThibautBaudry/Coup2Pousse)
