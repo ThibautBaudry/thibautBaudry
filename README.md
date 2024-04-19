@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Coup2Pousse](https://github.com/ThibautBaudry/Coup2Pousse)
 
-- 🌱 I’m currently learning **Solidity at Alyra school**
+- 🌱 I’m currently learning **Solidity at [Alyra school](https://www.alyra.fr)**
 
 - ⚡ Fun fact: **I love music**
 
