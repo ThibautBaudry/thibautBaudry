@@ -6,6 +6,6 @@
 
 - 🌱 Fintech Engineer Degree from **[ESILV](https://www.usinenouvelle.com/comparatif-des-ecoles-d-ingenieurs-2024)**
 
-- ⚡ Fun fact: I love music and studied at **[Abbey Road Institute](https://abbeyroadinstitute.fr)**
+-  ⚡ Fun fact: I love music and studied at **[Abbey Road Institute](https://abbeyroadinstitute.fr)**
 
 
