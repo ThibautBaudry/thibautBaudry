@@ -1,7 +1,7 @@
-<h1 align="left">Hi 👋, I'm Thibaut BAUDRY</h1>
-<h3 align="left">A passionate Engineer from Paris. Blockchain lover.</h3>
+<h1 align="left">Hi 👋</h1>
+<h3 align="left">Currently looking to work in Web3</h3>
 
-- 🔭 I’m currently working on [Coup2Pousse](https://github.com/ThibautBaudry/Coup2Pousse)
+- 🔭 I’m currently learning to build Solana programs at **[Alyra school](https://www.alyra.fr)**
 
 - 🌱 Certified learning **Solidity** at **[Alyra school](https://www.alyra.fr)**
 
