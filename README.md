@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋</h1>
+<h1 align="left">👋</h1>
 
 - 🔭 I’m currently learning to build Solana programs at **[Alyra school](https://www.alyra.fr)**
 
