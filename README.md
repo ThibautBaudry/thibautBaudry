@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋</h1>
-<h3 align="left">Currently looking to work in Web3</h3>
 
 - 🔭 I’m currently learning to build Solana programs at **[Alyra school](https://www.alyra.fr)**
 
